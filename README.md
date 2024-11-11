@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm aktham</h1>
-<h3 align="center">A computer graphics and game developer</h3>
+<h3 align="center">A graphics programmer and game developer</h3>
 
 # 💫 About Me:
 <br>- 🔭 I’m currently working on [RE-Renderer](https://github.com/akthamser/RE-Renderer)<br><br>- 🌱 I’m currently learning **game engine architecture and OpenGL**<br><br>- 📫 How to reach me **achiriaktham@gmail.com**
